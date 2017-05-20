@@ -1,8 +1,7 @@
 package com.didispace;
 
-import com.didispace.domain.User;
-import com.didispace.web.HelloController;
-import com.didispace.web.UserController;
+import com.helloworld.web.HelloController;
+import com.helloworld.web.UserController;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
